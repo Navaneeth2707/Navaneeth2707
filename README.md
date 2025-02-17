@@ -3,6 +3,10 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" alt="Coding GIF" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navaneeth2707&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 💻 About Me  
